@@ -1,3 +1,6 @@
+# Fair Warning
+This was my very first project when I started my journey in the programming world. None of the coding conventions+strucuturing+choices should be adopted as good standards by anyone reading the code or using the repo. We were all noobs once...wait I stil am? 
+
 # Mozzie Wipeout
 
 This project was done as part of **Smart India Hackathon(SIH) 2017 Grand Finals**, under the Indian Council of Medical Research (ICMR).
